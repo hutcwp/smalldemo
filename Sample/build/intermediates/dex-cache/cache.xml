@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Learning\small\Sample\app\build\intermediates\incremental-runtime-classes\wequick\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="F:\Learning\small\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10000\instant-run_dc0ddcbee25d164dba40e19e1616bd6a4559ea72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\502b623e793f61dcc0beb89e36e659c98fe4e8b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_7831ecbc945174091cdd9620f25ff0bb2a58e135\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitHub\small\Small\Android\Sample\lib.analytics\build\intermediates\transforms\smallStripped\release\jars\1\10\analytics-6.0.1-aab9085bca0c26dcb9cb11837a5f5e22cc102a5e.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\lib.analytics\build\intermediates\pre-dexed\release\analytics-6.0.1-aab9085bca0c26dcb9cb11837a5f5e22cc102a5e_4ea9d47890ce3e03682a9e5069c38ff22372e905.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Learning\small\Sample\app\build\intermediates\incremental-classes\wequick\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2f06d041e5232136c82f54283d0fb422a49597a">
+        <dex dex="F:\Learning\small\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10000\instant-run-bootstrap_88ce135636d9473d778fd18a650ff2a8d2da39e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\39968c79707e0b916e45c2438b959ed8b70dc5d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_9c5da520bfd40246a7bd8874ffa0d90cf576df86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\92e4e0521548f48f2520f57ca61abda7b698c513\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37aabd575227e2f95ac205dbeaccec7e75436cec">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_7a53a1655041f1487dcdbb98cad42258e61c9e7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitHub\small\Small\Android\Sample\lib.utils\build\intermediates\transforms\smallStripped\release\jars\1\2\lib.utils-mylib-mylib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb7593f15edfdd51537242dd4fe1c10886b2652d">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\lib.utils\build\intermediates\pre-dexed\release\lib.utils-mylib-mylib_e8a48ed88817d0f0c523d84ef56fcb66ff89efd0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d22dadd7080f7c45dffc998ebdb53963508b5b20\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b211ad8ff861aff8c42350043d5c2c00978ac4e2">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_5641e7e0fdf97b67b8e708ddb1ac56c1fbbe4f4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\DevelopmentSoft\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\constraint-layout-solver-1.0.2_a90451c74205df46670bf62e246b93709635ecf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitHub\small\Small\Android\Sample\app.mine\build\intermediates\transforms\smallStripped\release\jars\1\4\jni_plugin-default.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d25141d345690a039f580e12dcb4eb2c7d5ee1d5">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app.mine\build\intermediates\pre-dexed\release\jni_plugin-default_0859a69e512dc09994f1c3da1b7cf3252a530088.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\7cb25eabdabeaad74b245a852f8281c4151215ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_3fc2bc841f2ba155085cd5a652753f5c5950a411\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\ed0f2d3ec99008939fa2dbd42a2940c12df707d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_ddba03607ea4ccd2e87fcfe7958194fa0af0e2cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\incremental-classes\wequick\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="762f44ceb4f2e3d486bd5f17b98d17220c8f26b8">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10000\instant-run-bootstrap_f7a41d73332eec00936d5dbabde9f7fe740a3ab1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\583f2183c1a4cb9b502b9414a08e3815fadb4e5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_6f131de4d586bf04f2c8f8bbe2880e4982e658d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\478ab0d554ea4b7742a07a4ddf090402daac4c8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e63a0cad9d76864413ab74fe07a6297727ca825">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_0f308dad3aea46de6eae3762d73a3edd5551cda9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\28d55cf23819a0d35ae98a6f68842d0ec2c4739a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e63a0cad9d76864413ab74fe07a6297727ca825">
+        <dex dex="F:\Learning\small\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_e4e3835844db2c805dae16456692ade75ef24308\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\3b8e4ecbaf4db8f7e11eda6945cfbbf01ee0c0c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_050d2d68a1a267858f77f113cc69ad6b3018ae16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\793ddef4e72215238209ede8f0221b2d38fc1429\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_7b2d32f0e9a2517c8d008e1ce657dcf006a0944e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\6d0f852c10965f70d114d857bf8bf2ee9d58d48a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_e4cd24076b96816921d6756aef60b0f6ff500070\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.6.0\48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8\butterknife-annotations-8.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\butterknife-annotations-8.6.0_1e9486226db940d9ca5d43c77ccdeae15ca35a19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\ddab35c29f90de0c1dcd286b9dec56b0a1cb6c9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_cfdb31830e84ba332d475fb690297c285da7a890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\e388651e94b03e8d5f0ad204a357a44f427358db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_89d3cb0b7cf68ba253ed77093551fd4ce54184e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\f6a790a3b6480d4c9a1837e4207219726873444c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_7b777ba469c026e87d79271b804b6fb11561f865\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\47bfb403ec5352190fc6d784c65c0049bc0ea74c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_7283705c8252f33d3c230bf61d0de20ce951c78b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\incremental-runtime-classes\wequick\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10000\instant-run_68a905c9a3ccf14761be859c0c35df70ff267132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.3.0\d63c4d23204cadf1390fd1bbca8c1b05396aed\baseLibrary-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d63c4d23204cadf1390fd1bbca8c1b05396aed">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\baseLibrary-2.3.0_5bf72b3b4e843423d95eb6ecda73fb0cfccef0f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\f506781e2e83da230819c4f251a0806544ef76ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_d393b1fa460538ad182e3b7996492ad0edc650bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\DevelopmentSoft\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\support-annotations-25.1.0_93c8abd2dbac3a9677e7cf41553d0684bfcf312b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\c6aa03a104ea74c33fc4304e28823be1473a615f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_7d89d7e8d188b053084228abed625ebbbb4dfe55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\a3611ad99f80b305b3e5c03a841abd75f5e1bdb7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_b52627315cbf58308c39d06e4f334e9dcf073155\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\bc7f98f9703b8bf6358747c3f81b752cef676019\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\GitHub\small\Small\Android\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\classes_0242f85d171218d80f3c68c02d17a3d0bff51a06\classes.dex" />
+    </item>
+
+</items>

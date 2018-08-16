@@ -1,0 +1,3 @@
+com.android.databinding:baseLibrary:2.3.0
+com.android.support.constraint:constraint-layout-solver:1.0.2
+com.jakewharton:butterknife-annotations:8.6.0
